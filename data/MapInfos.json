@@ -1,0 +1,22 @@
+[
+null,
+{"id":1,"expanded":false,"name":"最初の場所","order":9,"parentId":2,"scrollX":642,"scrollY":365},
+{"id":2,"expanded":true,"name":"１．僧侶なんかじゃない","order":3,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":3,"expanded":false,"name":"宿屋","order":4,"parentId":2,"scrollX":666,"scrollY":689},
+{"id":4,"expanded":true,"name":"教会都市ユーノシア","order":5,"parentId":2,"scrollX":1054,"scrollY":1059},
+{"id":5,"expanded":false,"name":"宿屋２","order":6,"parentId":2,"scrollX":666,"scrollY":1047},
+{"id":6,"expanded":false,"name":"宿屋３","order":7,"parentId":2,"scrollX":666,"scrollY":855},
+{"id":7,"expanded":false,"name":"宿屋４","order":8,"parentId":2,"scrollX":666,"scrollY":855},
+{"id":8,"expanded":true,"name":"露天風呂","order":13,"parentId":15,"scrollX":1068,"scrollY":610},
+{"id":9,"expanded":false,"name":"★最初の場所","order":2,"parentId":0,"scrollX":633,"scrollY":392},
+{"id":10,"expanded":false,"name":"ＯＰ画像用","order":18,"parentId":14,"scrollX":906,"scrollY":732},
+{"id":11,"expanded":false,"name":"森　エリア1","order":19,"parentId":14,"scrollX":1146,"scrollY":948},
+{"id":12,"expanded":false,"name":"宿の中２","order":17,"parentId":14,"scrollX":1068,"scrollY":610},
+{"id":13,"expanded":false,"name":"宿の中","order":16,"parentId":14,"scrollX":714,"scrollY":881},
+{"id":14,"expanded":false,"name":"３．だらだら勇者","order":15,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":15,"expanded":true,"name":"２．温泉イベント（没）","order":10,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":16,"expanded":false,"name":"温泉宿-2","order":11,"parentId":15,"scrollX":534,"scrollY":319},
+{"id":17,"expanded":false,"name":"ＯＰ","order":1,"parentId":0,"scrollX":534,"scrollY":319},
+{"id":18,"expanded":false,"name":"最初の場所","order":14,"parentId":15,"scrollX":666,"scrollY":610},
+{"id":19,"expanded":false,"name":"温泉宿-2_２","order":12,"parentId":15,"scrollX":534,"scrollY":319}
+]
